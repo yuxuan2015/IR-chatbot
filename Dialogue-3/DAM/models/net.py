@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-import pickle as pickle
+import pickle
 
 import utils.layers as layers
 import utils.operations as op

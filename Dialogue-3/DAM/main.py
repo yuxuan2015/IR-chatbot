@@ -18,9 +18,9 @@ import bin.test_and_evaluate as test
 # configure
 
 conf = {
-    "data_path": "./data/ubuntu/data.pkl",
-    "save_path": "./output/ubuntu/temp/",
-    "word_emb_init": "./data/word_embedding.pkl",
+    "data_path": "./data/douban/data.pkl",
+    "save_path": "./output/douban/temp/",
+    "word_emb_init": "./data/douban/word_embedding.pkl",
     "init_model": None, #should be set for test
 
     "rand_seed": None, 
